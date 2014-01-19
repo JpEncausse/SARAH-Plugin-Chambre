@@ -1,0 +1,8 @@
+{
+  "modules": { 
+    "41Chambre": {
+      "description": "Philips HUE pour la chambre",
+      "version": "1.0"
+    }
+  }
+}
